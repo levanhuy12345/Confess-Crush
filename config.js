@@ -6,7 +6,7 @@ const CONFIG = {
     LÀM BẠN TÌNH CỦA ANHHHH `,
     btnIntro: '^^BẤM VÀO BABEEE^^',
     title: 'ANH KHÔNG BIẾT CẢM GIÁC NÀY CÓ TỪ LÚC NÀO  🥰',
-    desc: 'NHƯNG BÂY GIỜ ANH YÊU EM VÃI L*N LUÔN RỒIIIII  . EM LÀM NGƯỜI YÊU ANH NHAAA:3',
+    desc: 'NHƯNG BÂY GIỜ ANH YÊU EM VÃI L*N LUÔN RỒIIIIII  . EM LÀM NGƯỜI YÊU ANH NHAAA:3',
     btnYes: ' DẠ VÂNG EM ĐỒNG Ý YÊU CÔNG CHÚA HUY :3',
     btnNo: 'GHÉT MÀY NHẤT NHAA . ĐỒNG Ý CÁI ĐÉO HMMM',
     question: 'SAO CÔNG CHÚA HAY DỖI LẠI YÊU CÔNG CHÚA HUYYY DỌOO <3',
