@@ -5,7 +5,7 @@ const CONFIG = {
     OANH XINH OANH PHẢI
     LÀM BẠN TÌNH CỦA ANHHHH `,
     btnIntro: '^^BẤM VÀO BABEEE^^',
-    title: 'ANH KHÔNG BIẾT CẢM GIÁC NÀY CÓ TỪ LÚC NÀO  🥰',
+    title: 'ANH KHÔNG BIẾT CẢM GIÁC NÀY CÓ TỪ LÚC NÀOO  🥰',
     desc: 'NHƯNG BÂY GIỜ ANH YÊU EM VÃI L*N LUÔN RỒIIIIII  . EM LÀM NGƯỜI YÊU ANH NHAAA:3',
     btnYes: ' DẠ VÂNG EM ĐỒNG Ý YÊU CÔNG CHÚA HUY :3',
     btnNo: 'GHÉT MÀY NHẤT NHAA . ĐỒNG Ý CÁI ĐÉO HMMM',
